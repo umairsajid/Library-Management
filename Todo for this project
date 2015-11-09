@@ -4,6 +4,8 @@ Refactoring;
 	Create header file for prototypes and inclusions
 	Create separate source and header files for the functions
 
+	Need to single out the functions that can be refactored and reused, then create a separate source and header file for them. 
+
 Git;
 	Create git repo and remote
 
