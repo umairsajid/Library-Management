@@ -1,0 +1,11 @@
+Todo for this project
+
+Refactoring;
+	Create header file for prototypes and inclusions
+	Create separate source and header files for the functions
+
+Git;
+	Create git repo and remote
+
+Input;
+	Seems fucky, losing chars and not getting the right response. Sort this fucking c-input shit out for once. 
